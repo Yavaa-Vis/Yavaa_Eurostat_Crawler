@@ -1,0 +1,13 @@
+[
+  qb:order {order};
+  qb:dimension [
+    a rdf:Property, qb:DimensionProperty, qb:CodedProperty ;
+    qb:concept [
+      a skos:Concept ;
+      skos:exactMatch <{match}> ;
+    ];
+    rdfs:range  <{codelist}>;
+    qb:codeList <{codelist}>;
+  ];
+  rdfs:label "{label}";
+]

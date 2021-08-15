@@ -1,0 +1,1 @@
+INSERT OR IGNORE INTO `dimvalues`(`dimid`, `values`) VALUES ($dimid, $values)

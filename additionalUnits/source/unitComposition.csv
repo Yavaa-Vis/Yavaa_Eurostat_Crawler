@@ -1,0 +1,9 @@
+name,shortname,operator,op1,op2
+Euro per tonne of oil equivalent,euroPerTonneOilEquivalent,/,http://www.wurvoc.org/vocabularies/om-1.8/euro,http://yavaa.org/ns/units/tonneOilEquivalent
+gigawatt-hour,gigawattHour,*,http://www.wurvoc.org/vocabularies/om-1.8/gigawatt,http://www.wurvoc.org/vocabularies/om-1.8/hour
+kilogram per thousand Euro,kilogramPerThousandEuro,/,http://www.wurvoc.org/vocabularies/om-1.8/kilogram,http://yavaa.org/ns/units/thousandEuro
+kilogram of oil equivalent per thousand Euro,kilogrammOilEquivalentPerThousandEuro,/,http://yavaa.org/ns/units/kgOilEquivalent,http://yavaa.org/ns/units/thousandEuro
+million purchasing power standard per square kilometer,millionPpsPerSquarekilometer,/,http://yavaa.org/ns/units/millionPps,http://www.wurvoc.org/vocabularies/om-1.8/square_kilometre
+tonne per day,tonnePerDay,/,http://www.wurvoc.org/vocabularies/om-1.8/tonne,http://www.wurvoc.org/vocabularies/om-1.8/day
+per mile,perMile,/,1,http://www.wurvoc.org/vocabularies/om-1.8/mile-US_survey
+tonnes per capita,tonnePerInhabitant,/,http://www.wurvoc.org/vocabularies/om-1.8/tonne,http://yavaa.org/ns/units/inhabitant

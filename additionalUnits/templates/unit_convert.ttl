@@ -1,0 +1,5 @@
+<http://yavaa.org/ns/units/{shortname}> om:definition   [
+    a   om:Measure ;
+    om:unit_of_measure_or_measurement_scale <{base}> ;
+    om:numerical_value  {factor} ;
+  ] .

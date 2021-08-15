@@ -1,0 +1,4 @@
+{name} a dcat:Distribution;
+    dcat:downloadURL  <{target}> ;
+    dcat:mediaType    "{type}" ;
+    .

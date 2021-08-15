@@ -1,0 +1,1 @@
+INSERT OR IGNORE INTO `measvalues`(`dsid`, `min`, `max`) VALUES ($dsid, $min, $max)

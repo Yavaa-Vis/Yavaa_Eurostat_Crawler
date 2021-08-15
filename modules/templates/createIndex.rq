@@ -1,0 +1,8 @@
+PREFIX luc: <http://www.ontotext.com/owlim/lucene#>
+INSERT DATA {
+  luc:index               luc:setParam    "uris literals".
+  luc:moleculeSize        luc:setParam    "1".
+  luc:includePredicates   luc:setParam    "http://purl.org/dc/terms/title http://www.w3.org/2000/01/rdf-schema#label http://www.w3.org/2004/02/skos/core#prefLabel" .
+
+  luc:labelIndex          luc:createIndex "true".
+}

@@ -1,0 +1,1 @@
+SELECT `dimvalid` FROM `dimvalues` WHERE `dimid` = $dimid AND `values` = $values

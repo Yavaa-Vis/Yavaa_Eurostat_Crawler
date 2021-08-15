@@ -1,0 +1,1 @@
+SELECT `dimid` FROM `dimensions` WHERE `name` = $name

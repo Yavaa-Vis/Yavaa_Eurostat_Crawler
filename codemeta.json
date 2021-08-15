@@ -1,0 +1,28 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/MIT",
+    "codeRepository": "https://github.com/Yavaa-Vis/Yavaa_Eurostat_Crawler.git",
+    "datePublished": "2021-08-15",
+    "dateModified": "2021-08-15",
+    "downloadUrl": "https://github.com/Yavaa-Vis/Yavaa_Eurostat_Crawler/archive/refs/tags/1.0.0.zip",
+    "issueTracker": "https://github.com/Yavaa-Vis/Yavaa_Eurostat_Crawler/issues",
+    "name": "Yavaa Eurostat Crawler",
+    "version": "1.0.0",
+    "description": "Eurostat crawler to generate data descriptions for Yavaa. ",
+    "programmingLanguage": [
+        "JavaScript"
+    ],
+    "runtimePlatform": [
+        "Node.js"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-0964-4457",
+            "givenName": "Sirko",
+            "familyName": "Schindler",
+            "email": "yavaa_crawler@sirko.org"
+        }
+    ]
+}

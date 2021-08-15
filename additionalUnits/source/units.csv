@@ -1,0 +1,31 @@
+name,shortname,symbol,dimension,convertsTo,convertsWith,comment
+gross tonnage,grossTonnage,GT,http://yavaa.org/ns/dimension/shipTonnage,,,https://en.wikipedia.org/wiki/Gross_tonnage
+gigawatt hours,gigawattHours,,http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension,http://www.wurvoc.org/vocabularies/om-1.8/kilowatt_hour,1000000,
+hundred,hundred,,http://yavaa.org/ns/dimension/count,http://yavaa.org/ns/units/one,100,
+kilogram of oil equivalent,kgOilEquivalent,kgoe,http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension,http://www.wurvoc.org/vocabularies/om-1.8/gigajoule,41868,https://en.wikipedia.org/wiki/Kilogram_oil_equivalent
+million,million,,http://yavaa.org/ns/dimension/count,http://yavaa.org/ns/units/one,1000000,
+million cubic meter,millionCubicmeter,,http://www.wurvoc.org/vocabularies/om-1.8/volume-dimension,http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre,1000000,
+million Euro,millionEuro,,http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_money,http://www.wurvoc.org/vocabularies/om-1.8/euro,1000000,
+million purchasing power standard,millionPps,,http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_money,http://yavaa.org/ns/units/pps,1000000,
+million square meter,millionSquaremeter,,http://www.wurvoc.org/vocabularies/om-1.8/area-dimension,http://www.wurvoc.org/vocabularies/om-1.8/square_metre,1000000,
+million tonnes,millionTonne,,http://www.wurvoc.org/vocabularies/om-1.8/mass-dimension,http://www.wurvoc.org/vocabularies/om-1.8/tonne,1000000,
+one,one,,http://yavaa.org/ns/dimension/count,,,
+per one,perOne,,http://yavaa.org/ns/dimension/perCount,,,
+per one hundred,perHundred,,http://yavaa.org/ns/dimension/perCount,http://yavaa.org/ns/units/perOne,0.01,
+per one hundred Thousand,perHundredThousand,,http://yavaa.org/ns/dimension/perCount,http://yavaa.org/ns/units/perOne,0.00001,
+per one million,perMillion,,http://yavaa.org/ns/dimension/perCount,http://yavaa.org/ns/units/perOne,0.000001,
+per one thousand,perThousand,,http://yavaa.org/ns/dimension/perCount,http://yavaa.org/ns/units/perOne,1,
+purchasing power standard,pps,PPS,http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_money,,,http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Purchasing_power_standard_(PPS)
+terajoule,terajoule,,http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension,http://www.wurvoc.org/vocabularies/om-1.8/joule,1000000000000,
+thousand,thousand,,http://yavaa.org/ns/dimension/count,http://yavaa.org/ns/units/one,1000,
+thousand cubic meter,thousandCubicmeter,,http://www.wurvoc.org/vocabularies/om-1.8/volume-dimension,http://www.wurvoc.org/vocabularies/om-1.8/cubic_metre,1000,
+thousand Euro,thousandEuro,t€,http://www.wurvoc.org/vocabularies/om-1.8/Amount_of_money,http://www.wurvoc.org/vocabularies/om-1.8/euro,1000,
+thousand hectar,thousandHectar,,http://www.wurvoc.org/vocabularies/om-1.8/area-dimension,http://www.wurvoc.org/vocabularies/om-1.8/hectare,1000,
+thousand minutes,thousandMinute,,http://www.wurvoc.org/vocabularies/om-1.8/time-dimension,http://www.wurvoc.org/vocabularies/om-1.8/minute-time,1000,
+thousand square meter,thousandSquaremeter,,http://www.wurvoc.org/vocabularies/om-1.8/area-dimension,http://www.wurvoc.org/vocabularies/om-1.8/square_metre,1000,
+thousand tonnes,thousandTonnes,,http://www.wurvoc.org/vocabularies/om-1.8/mass-dimension,http://www.wurvoc.org/vocabularies/om-1.8/tonne,1000,
+thousand tonnes of oil equivalent,thousandTonnesOilEquivalent,ktoe,http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension,http://yavaa.org/ns/units/tonneOilEquivalent,1000,
+thousand tonnes per day,thousandTonnesPerDay,,http://yavaa.org/ns/dimension/massPerTime,http://yavaa.org/ns/units/tonnePerDay,1000,
+tonne of oil equivalent,tonneOilEquivalent,toe,http://www.wurvoc.org/vocabularies/om-1.8/energy-dimension,,,https://en.wikipedia.org/wiki/Tonne_of_oil_equivalent
+tonnes per day,tonnesPerDay,,http://yavaa.org/ns/dimension/massPerTime,,,
+

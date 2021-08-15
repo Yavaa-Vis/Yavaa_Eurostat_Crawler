@@ -1,0 +1,6 @@
+<http://yavaa.org/ns/units/{shortname}>
+  rdfs:label      "{name}"@en ;
+  a               om:Unit_division ;
+  om:denominator  <{denom}> ;
+  om:numerator    <{num}> ;
+  .

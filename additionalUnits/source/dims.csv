@@ -1,0 +1,6 @@
+name,desc,expLen,expMass,expTime,expEl,expTemp,expAmount,expLum
+count,dimensionless counts,0,0,0,0,0,1,0
+shipTonnage,ship volume,3,0,0,0,0,0,0
+massLength,mass times length,1,1,0,0,0,0,0
+massPerTime,mass per time,1,1,-1,0,0,0,0
+perCount,per count,0,0,0,0,0,-1,0

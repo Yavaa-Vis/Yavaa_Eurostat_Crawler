@@ -1,0 +1,25 @@
+[
+  qb:order {order};
+  qb:measure [
+    a rdf:Property, qb:MeasureProperty;
+
+    qb:concept [
+      a skos:Concept ;
+      skos:exactMatch <{match}> ;
+    ];
+    
+    # value range
+    rdfs:range [
+      a rdfs:Datatype ;
+      owl:onDatatype xsd:float ;
+      owl:withRestrictions ( [
+        xsd:minInclusive {min} ;
+        xsd:maxInclusive {max}
+      ] )
+    ];
+
+    {unit}
+
+  ];
+  rdfs:label "{label}";
+]

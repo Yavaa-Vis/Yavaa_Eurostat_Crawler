@@ -1,0 +1,1 @@
+INSERT INTO `link_ds_dimvals`(`dsid`, `dimvalid`, `pos`) VALUES ($dsid, $dimvalid, $pos)

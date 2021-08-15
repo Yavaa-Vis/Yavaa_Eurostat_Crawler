@@ -1,0 +1,11 @@
+<http://yavaa.org/ns/dimension/{name}>
+  a               om:Dimension ;
+  rdfs:label      "{desc}"@en ;
+  om:SI_length_dimension_exponent                    {expLen} ;
+  om:SI_mass_dimension_exponent                      {expMass} ;
+  om:SI_time_dimension_exponent                      {expTime} ;
+  om:SI_electric_current_dimension_exponent          {expEl} ;
+  om:SI_thermodynamic_temperature_dimension_exponent {expTemp} ;
+  om:SI_amount_of_substance_dimension_exponent       {expAmount} ;
+  om:SI_luminous_intensity_dimension_exponent        {expLum} 
+  .

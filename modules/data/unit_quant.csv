@@ -1,0 +1,54 @@
+http://www.wurvoc.org/vocabularies/om-1.8/day,time
+http://www.wurvoc.org/vocabularies/om-1.8/degree_Celsius,temp
+http://www.wurvoc.org/vocabularies/om-1.8/euro,money
+http://www.wurvoc.org/vocabularies/om-1.8/gigajoule,energy
+http://www.wurvoc.org/vocabularies/om-1.8/hectare,area
+http://www.wurvoc.org/vocabularies/om-1.8/hour,time
+http://www.wurvoc.org/vocabularies/om-1.8/kilocalorie-mean,energy
+http://www.wurvoc.org/vocabularies/om-1.8/kilogram,mass
+http://www.wurvoc.org/vocabularies/om-1.8/kilometre,length
+http://www.wurvoc.org/vocabularies/om-1.8/kilotonne,mass
+http://www.wurvoc.org/vocabularies/om-1.8/kilowatt,power
+http://www.wurvoc.org/vocabularies/om-1.8/kilowatt_hour,energy
+http://www.wurvoc.org/vocabularies/om-1.8/megaeuro,money
+http://www.wurvoc.org/vocabularies/om-1.8/megawatt,power
+http://www.wurvoc.org/vocabularies/om-1.8/metre,length
+http://www.wurvoc.org/vocabularies/om-1.8/milligram_per_litre,mass per volume
+http://www.wurvoc.org/vocabularies/om-1.8/minute-time,time
+http://www.wurvoc.org/vocabularies/om-1.8/percent,amount
+http://www.wurvoc.org/vocabularies/om-1.8/square_kilometre,area
+http://www.wurvoc.org/vocabularies/om-1.8/square_metre,area
+http://www.wurvoc.org/vocabularies/om-1.8/tonne,mass
+http://www.wurvoc.org/vocabularies/om-1.8/tonne_per_hectare,mass per area
+http://www.wurvoc.org/vocabularies/om-1.8/year,time
+http://yavaa.org/ns/units/euroPerTonneOilEquivalent,money per energy
+http://yavaa.org/ns/units/gigawattHour,energy
+http://yavaa.org/ns/units/grossTonnage,tonnage
+http://yavaa.org/ns/units/kgOilEquivalent,energy
+http://yavaa.org/ns/units/kilogramPerThousandEuro,mass per money
+http://yavaa.org/ns/units/kilogrammOilEquivalentPerThousandEuro,energy per money
+http://yavaa.org/ns/units/million,amount
+http://yavaa.org/ns/units/millionCubicmeter,volume
+http://yavaa.org/ns/units/millionEuro,money
+http://yavaa.org/ns/units/millionPps,
+http://yavaa.org/ns/units/millionPpsPerSquarekilometer,
+http://yavaa.org/ns/units/millionTonne,mass
+http://yavaa.org/ns/units/one,amount
+http://yavaa.org/ns/units/perHundred,per amount
+http://yavaa.org/ns/units/perHundredThousand,per amount
+http://yavaa.org/ns/units/perMile,per length
+http://yavaa.org/ns/units/perMillion,per amount
+http://yavaa.org/ns/units/perThousand,per amount
+http://yavaa.org/ns/units/pps,
+http://yavaa.org/ns/units/terrajoule,energy
+http://yavaa.org/ns/units/thousand,amount
+http://yavaa.org/ns/units/thousandCubicmeter,volume
+http://yavaa.org/ns/units/thousandEuro,money
+http://yavaa.org/ns/units/thousandHectar,area
+http://yavaa.org/ns/units/thousandMinute,time
+http://yavaa.org/ns/units/thousandSquaremeter,area
+http://yavaa.org/ns/units/thousandTonne,mass
+http://yavaa.org/ns/units/thousandTonnePerDay,mass per time
+http://yavaa.org/ns/units/thousandTonnesOilEquivalent,energy
+http://yavaa.org/ns/units/tonnePerDay,mass per time
+tbd,

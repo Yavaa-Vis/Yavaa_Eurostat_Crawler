@@ -1,0 +1,6 @@
+<http://yavaa.org/ns/units/{shortname}>
+  rdfs:label      "{name}"@en ;
+  a               om:Unit_multiplication ;
+  om:term_1       <{term_1}> ;
+  om:term_2       <{term_2}> ;
+  .

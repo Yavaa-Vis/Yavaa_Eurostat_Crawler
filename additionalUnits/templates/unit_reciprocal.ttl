@@ -1,0 +1,6 @@
+<http://yavaa.org/ns/units/{shortname}>
+  rdfs:label      "{name}"@en ;
+  a               om:Unit_exponentiation ;
+  om:base         <{base}> ;
+  om:exponent     "-1"^^xsd:integer
+  .

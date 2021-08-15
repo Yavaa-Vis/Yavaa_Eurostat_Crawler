@@ -1,0 +1,25 @@
+[
+  qb:order {order};
+  qb:dimension [
+    a rdf:Property, qb:DimensionProperty ;
+    qb:concept [
+      a skos:Concept ;
+      skos:exactMatch <{match}> ;
+    ];
+
+    # time range
+    rdfs:range [
+      a rdfs:Datatype ;
+      owl:onDatatype xsd:dateTime ;
+      owl:withRestrictions ( [
+        xsd:minInclusive "{min}"^^xsd:dateTime ;
+        xsd:maxInclusive "{max}"^^xsd:dateTime
+      ] )
+    ];
+
+    # time format
+    <http://yavaa.org/ns/yavaa#hasFormat> <{type}> ;
+
+  ];
+  rdfs:label "{label}";
+]

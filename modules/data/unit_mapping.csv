@@ -1,0 +1,417 @@
+AVG,-
+AVG_3Y,-
+BAL,-
+CLV_PCH_PRE,-
+CLV_PCH_SM,-
+CP_MEUR,-
+CP_MNAC,-
+CP_MPPS,-
+CPI00_NAC,-
+FTE,-
+HC,-
+HR_SAL,-
+I_EU,-
+I00,-
+I05,-
+I10,-
+I12,-
+I15,-
+I2010,-
+I2010_NSA,-
+I2010_SCA,-
+I90,-
+I99,-
+INX,-
+INX_A_AVG,-
+MIO_GTKM,-
+MIO_NAC,-
+MIO_PKM,-
+MIO_TKM,-
+MIO_VKM,-
+NAC,-
+NAT,-
+PAS,-
+PCH_1Y,-
+PCH_3Y,-
+PCH_5Y_CPI10_NAC,-
+PCH_PRE,-
+PCH_PRE_PER,-
+PCH_PRE_PERS_SCA,-
+PCH_SAME_PERS_NSA,-
+PCH_SM,-
+PCH_WRL_1Y,-
+PCH_WRL_5Y,-
+PD10_EUR,-
+PER,-
+PERS,-
+PH,-
+PPS_HAB_EU,-
+RCH_A,-
+RCH_A_AVG,-
+RCH_M,-
+RCH_MV12MAVR,-
+RK,-
+RT,-
+RT_INC,-
+RT_SINC,-
+RTG,-
+SEAT,-
+TCO2E,-
+TEU,-
+THS_AWU,-
+THS_FTE,-
+THS_PAS,-
+THS_PASF,-
+THS_PER,-
+THS_SEAT,-
+THS_TKM,-
+THS_TRKM,-
+THS_VKM,-
+TOE_MEUR_PPS,-
+(2010 = 100),-
+(2015 = 100),-
+1 000 full-time equivalent,-
+1 000 kg O2/day,-
+1 ECU/EUR = ... units of national currency (annual average),-
+2000 = 100,-
+2010 = 100,-
+Annual average,-
+Annual average stock,-
+At 1 January,-
+At current prices,-
+At current prices in million EUR,-
+Balance - seasonally adjusted,-
+By level of education (PPS based on full-time equivalents),-
+By level of education - based on full-time equivalents (% - based on full-time equivalents),-
+Coefficient of variation of comparative price and volume levels of final consumption by private households including indirect taxes,-
+Comparative price levels of final consumption by private households including indirect taxes (EU28 = 100),-
+ESD base year=100 / million tonnes CO2 equivalent,-
+EUR per 1 000 kg,-
+EUR per 100,-
+EUR per 100 kg,-
+EUR per 100 kg live weight,-
+EUR per gigajoule,-
+EUR per kWh,-
+EUR per tonne of oil equivalent,-
+EUR/month,-
+Full time equivalent (% of the labour force),-
+Gram of CO2 per km,-
+Income quintile share ratio,-
+Index,-
+Index (1990 = 100),-
+Index (2000 = 100),-
+Index (2005 = 100),-
+Index (2010 = 100),-
+Index (2010 = 100) - Seasonally and calendar adjusted data,-
+Index (2010 = 100) - seasonally adjusted,-
+Index (2010 = 100) Seasonally and calendar adjusted data,-
+Index (2010 = 100) Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),-
+Index (EU28 = 100),-
+"Kg per thousand euro, chain linked volumes (2010)",-
+KgOE/ha,-
+Livestock units per ha,-
+Micrograms per cubic metre,-
+Million EUR and %,-
+Million passenger-km,-
+Million tkm,-
+Millions PPS per km²,-
+Monthly average - not seasonally adjusted,-
+Not seasonally adjusted,-
+Number of meshes per 1 000 km2,-
+Of full-time employees in enterprises with 10 or more employees (ECU/EUR),-
+PPS (based on final consumption) per inhabitant,-
+PPS per inhabitant,-
+Rate,-
+Seasonally adjusted data,-
+Seasonally and calendar adjusted data,-
+Secondary education (average),-
+Share of persons aged 0-17 who are living in households where no-one works,-
+Share of persons aged 18 - 59 who are living in households where no-one works,-
+Tertiary education,-
+Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),-
+Value added at factor cost in the ICT sector as % of total value added at factor cost,-
+Year-on-year percentage change of the value added at factor cost of the ICT sector at current prices,-
+coefficient of 0 (maximal equality) to 100 (maximal inequality),-
+full-time equivalent,-
+full-time equivalent (% of total researchers),-
+g CO2 per km,-
+index (2000 = 100),-
+index (2005 = 100),-
+index (EU = 100),-
+kg per capita,-
+m³ per capita,-
+pH value,-
+persons per km<sup>2</sup>,-
+score scale of 0 (highly corrupt) to 100 (very clean),-
+thousand of persons,http://yavaa.org/ns/units/thousand
+µg/m3,-
+DAY,http://www.wurvoc.org/vocabularies/om-1.8/day
+DEGC,http://www.wurvoc.org/vocabularies/om-1.8/degree_Celsius
+degree Celsius,http://www.wurvoc.org/vocabularies/om-1.8/degree_Celsius
+EUR,http://www.wurvoc.org/vocabularies/om-1.8/euro
+euro,http://www.wurvoc.org/vocabularies/om-1.8/euro
+GJ_GCV,http://www.wurvoc.org/vocabularies/om-1.8/gigajoule
+HA,http://www.wurvoc.org/vocabularies/om-1.8/hectare
+ha,http://www.wurvoc.org/vocabularies/om-1.8/hectare
+HR,http://www.wurvoc.org/vocabularies/om-1.8/hour
+Hours,http://www.wurvoc.org/vocabularies/om-1.8/hour
+KCAL,http://www.wurvoc.org/vocabularies/om-1.8/kilocalorie-mean
+Kilocalories,http://www.wurvoc.org/vocabularies/om-1.8/kilocalorie-mean
+KG,http://www.wurvoc.org/vocabularies/om-1.8/kilogram
+Kg of active ingredient,http://www.wurvoc.org/vocabularies/om-1.8/kilogram
+kg per hectare,http://www.wurvoc.org/vocabularies/om-1.8/kilogram_per_hectare
+kilograms per hectare,http://www.wurvoc.org/vocabularies/om-1.8/kilogram_per_hectare
+KM,http://www.wurvoc.org/vocabularies/om-1.8/kilometre
+km,http://www.wurvoc.org/vocabularies/om-1.8/kilometre
+THS_T,http://www.wurvoc.org/vocabularies/om-1.8/kilotonne
+KW,http://www.wurvoc.org/vocabularies/om-1.8/kilowatt
+KWH,http://www.wurvoc.org/vocabularies/om-1.8/kilowatt_hour
+MIO_EUR,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+MIO_EUR_SCA,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+MW,http://www.wurvoc.org/vocabularies/om-1.8/megawatt
+M,http://www.wurvoc.org/vocabularies/om-1.8/metre
+mg NO3 per litre,http://www.wurvoc.org/vocabularies/om-1.8/milligram_per_litre
+mg O2 per litre,http://www.wurvoc.org/vocabularies/om-1.8/milligram_per_litre
+mg PO4 per litre,http://www.wurvoc.org/vocabularies/om-1.8/milligram_per_litre
+MN,http://www.wurvoc.org/vocabularies/om-1.8/minute-time
+Number of persons employed in the ICT sector as % of the total employment,http://www.wurvoc.org/vocabularies/om-1.8/percent
+"Participation rates, all levels (%)",http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_ACT,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_ACT_FTE,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_BEN,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_CHE,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_DI,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_EMP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_EMP_FTE,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_ENT,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_EU28_MPPS_CP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_EXP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_FTE,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_GBA,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_GDP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_GDP_3Y,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_GEXP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_GVA,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_HC,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_HH,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_HH_IACC,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_HH_IACCX,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_INAC,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_IND,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_LSU,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_POP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_SAL,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_TOT,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_TURN,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_UAA,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_UNE,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_WMN,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_WRL,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_Y_LT60,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PC_Y20-29,http://www.wurvoc.org/vocabularies/om-1.8/percent
+PTP_RT,http://www.wurvoc.org/vocabularies/om-1.8/percent
+%,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% - Seasonally adjusted data,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% - Seasonally and calendar adjusted data,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% - Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),http://www.wurvoc.org/vocabularies/om-1.8/percent
+% change from previous year,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% distance to poverty threshold,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% in total inland freight tonne-km,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% in total inland passenger-km,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of 15-year-old students,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of GDP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of GDP and million EUR,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of LSU,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of UAA,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of active population,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of all 4-year-olds,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of average gross hourly earnings of men,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of employees aged 20 to 64,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of enterprises with at least 10 persons employed in the given NACE sectors,http://www.wurvoc.org/vocabularies/om-1.8/percent
+"% of enterprises with at least 10 persons employed in the given NACE sectors, by size class. NACE Rev 2 since 2009 (break in series in 2009)",http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of enterprises with at least 10 persons employed in the given NACE sectors. NACE Rev 2 since 2009 (break in series in 2009),http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of exports,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of gross national income (GNI),http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of households with at least one member aged 16 to 74,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of households with at least one member aged 16 to 74 and Internet access,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of households with at least one member aged 16 to 74 and without Internet access at home,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of imports in total energy consumption,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of inactive population aged 20 to 64,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of income,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of individuals,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of individuals aged 16 to 74,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of individuals aged 16 to 74.,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of individuals aged 16-74,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of long term average available water (LTAA),http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 15 or over,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 15 to 29,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 16 and over,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 18 or over,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 18 to 24,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 20 to 34 with at least upper-secondary education,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 20 to 64,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 25 to 64,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of population aged 30 to 34,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of positions,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of seats,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of the age group between 4-years-old and the starting age of compulsory education,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of the age group between 4-years-old and the starting age of compulsory primary education,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of the population aged 15-24 years,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of the population aged 18-24 with at most lower secondary education and not in further education or training,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of the population aged 20-24 years,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of the population aged 20-29 years,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of the total generation,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total GERD,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total emissions,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total employment,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total expenditure,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total expenditure on social protection,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total general government expenditure,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total inland freight tonne-km,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total inland passenger-km,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total labour costs,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total land area,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total live births,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total number of employees,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total population,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total population aged less than 60,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total taxes,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total waste generated,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of total waste treated,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of utilised agricultural area (UAA),http://www.wurvoc.org/vocabularies/om-1.8/percent
+% of women,http://www.wurvoc.org/vocabularies/om-1.8/percent
+% share of total current health expenditure,http://www.wurvoc.org/vocabularies/om-1.8/percent
+Annual average (%),http://www.wurvoc.org/vocabularies/om-1.8/percent
+Annual average rate of change (%),http://www.wurvoc.org/vocabularies/om-1.8/percent
+Annual percentage change in total employed population,http://www.wurvoc.org/vocabularies/om-1.8/percent
+By sex (%),http://www.wurvoc.org/vocabularies/om-1.8/percent
+Children cared for as a percentage of all children in the same age group,http://www.wurvoc.org/vocabularies/om-1.8/percent
+Current prices (% of GDP),http://www.wurvoc.org/vocabularies/om-1.8/percent
+Growth rate (%),http://www.wurvoc.org/vocabularies/om-1.8/percent
+Head count (% of total researchers),http://www.wurvoc.org/vocabularies/om-1.8/percent
+Percent of GDP,http://www.wurvoc.org/vocabularies/om-1.8/percent
+Percentage change,http://www.wurvoc.org/vocabularies/om-1.8/percent
+Percentage change on previous year,http://www.wurvoc.org/vocabularies/om-1.8/percent
+Percentage points,http://www.wurvoc.org/vocabularies/om-1.8/percent
+"Total - science, mathematics and computing - engineering, manufacture and construction (%)",http://www.wurvoc.org/vocabularies/om-1.8/percent
+Upper secondary general education (%),http://www.wurvoc.org/vocabularies/om-1.8/percent
+percentage points,http://www.wurvoc.org/vocabularies/om-1.8/percent
+KM2,http://www.wurvoc.org/vocabularies/om-1.8/square_kilometre
+km<sup>2</sup>,http://www.wurvoc.org/vocabularies/om-1.8/square_kilometre
+m2,http://www.wurvoc.org/vocabularies/om-1.8/square_metre
+m2 of the useful floor area,http://www.wurvoc.org/vocabularies/om-1.8/square_metre
+T,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+T_AI,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+TLW,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+TPW,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+Tonne,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+Tonnes,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+Tonnes live weight,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+Tonnes of CO2 equivalent per capita,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+tonne,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+tonnes live weight,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+tonnes per capita,http://www.wurvoc.org/vocabularies/om-1.8/tonne
+T_HA,http://www.wurvoc.org/vocabularies/om-1.8/tonne_per_hectare
+YR,http://www.wurvoc.org/vocabularies/om-1.8/year
+Tertiary education (years),http://www.wurvoc.org/vocabularies/om-1.8/year
+Years,http://www.wurvoc.org/vocabularies/om-1.8/year
+years,http://www.wurvoc.org/vocabularies/om-1.8/year
+NR_HAB,-
+M3_HAB,-
+EUR_HAB_KP10,-
+EUR_TOE,http://yavaa.org/ns/units/euroPerTonneOilEquivalent
+GWH,http://yavaa.org/ns/units/gigawattHour
+GWh,http://yavaa.org/ns/units/gigawattHours
+GT,http://yavaa.org/ns/units/grossTonnage
+Gross tonnage,http://yavaa.org/ns/units/grossTonnage
+HAB_KM2,-
+kg of oil equivalent,http://yavaa.org/ns/units/kgOilEquivalent
+KGOE_TEUR,http://yavaa.org/ns/units/kilogrammOilEquivalentPerThousandEuro
+KG_HAB,-
+KG_TEUR_CLV10,http://yavaa.org/ns/units/kilogramPerThousandEuro
+MIO,http://yavaa.org/ns/units/million
+MIO_M3,http://yavaa.org/ns/units/millionCubicmeter
+Million m³,http://yavaa.org/ns/units/millionCubicmeter
+Million ECU/EUR,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+TVAL_SA,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+Million EUR,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+Million EUR (current prices) - Seasonally and calendar adjusted data,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+Million EUR - Seasonally and calendar adjusted data,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+Millions EUR,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+Trade value in million EUR - seasonally adjusted,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+million EUR,http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+million EUR (current prices),http://www.wurvoc.org/vocabularies/om-1.8/megaeuro
+MIO_PPS,http://yavaa.org/ns/units/millionPps
+Million PPS,http://yavaa.org/ns/units/millionPps
+MPPS_KM2,http://yavaa.org/ns/units/millionPpsPerSquarekilometer
+MIO_T,http://yavaa.org/ns/units/millionTonne
+million tonnes,http://yavaa.org/ns/units/millionTonne
+Pupils per teacher,http://yavaa.org/ns/units/one
+NR,http://yavaa.org/ns/units/one
+Head count,http://yavaa.org/ns/units/one
+Number,http://yavaa.org/ns/units/one
+Number of acquisitions,http://yavaa.org/ns/units/one
+Passengers,http://yavaa.org/ns/units/one
+Persons,http://yavaa.org/ns/units/one
+number,http://yavaa.org/ns/units/one
+number of children per woman,http://yavaa.org/ns/units/one
+number of live births per woman,http://yavaa.org/ns/units/one
+persons,http://yavaa.org/ns/units/one
+Per 100 persons,http://yavaa.org/ns/units/perHundred
+P_HHAB,http://yavaa.org/ns/units/perHundred
+Crude death rate per 100 000 persons,http://yavaa.org/ns/units/perHundredThousand
+Per 100 000 inhabitants,http://yavaa.org/ns/units/perHundredThousand
+Standardised death rate by 100 000 inhabitants,http://yavaa.org/ns/units/perHundredThousand
+"Standardised death rate per 100 000 inhabitants, 3 years average",http://yavaa.org/ns/units/perHundredThousand
+number par 100 000 persons,http://yavaa.org/ns/units/perHundredThousand
+number per 100 000 employees,http://yavaa.org/ns/units/perHundredThousand
+number per 100 000 persons,http://yavaa.org/ns/units/perHundredThousand
+number per 100 000 persons aged less than 65,http://yavaa.org/ns/units/perHundredThousand
+P_HTHAB,http://yavaa.org/ns/units/perHundredThousand
+PM,http://yavaa.org/ns/units/perMile
+Per million inhabitants,http://yavaa.org/ns/units/perMillion
+number per million inhabitants,http://yavaa.org/ns/units/perMillion
+P_THAB,http://yavaa.org/ns/units/perMillion
+Per 1 000 persons,http://yavaa.org/ns/units/perThousand
+Per 1000 live births,http://yavaa.org/ns/units/perThousand
+Per 1000 persons,http://yavaa.org/ns/units/perThousand
+Tertiary graduates in science and technology per 1 000 inhabitants aged 20-29 years,http://yavaa.org/ns/units/perThousand
+number - per 1 000 persons,http://yavaa.org/ns/units/perThousand
+P_MHAB,http://yavaa.org/ns/units/perThousand
+PPS,http://yavaa.org/ns/units/pps
+in PPS,http://yavaa.org/ns/units/pps
+PPCS_HAB,-
+PPS_HAB,-
+M2_HAB,-
+TJ,http://yavaa.org/ns/units/terrajoule
+TJ_GCV,http://yavaa.org/ns/units/terrajoule
+THS,http://yavaa.org/ns/units/thousand
+THS_HD,http://yavaa.org/ns/units/thousand
+1 000,http://yavaa.org/ns/units/thousand
+1 000 holdings,http://yavaa.org/ns/units/thousand
+1 000 passengers,http://yavaa.org/ns/units/thousand
+1 000 persons,http://yavaa.org/ns/units/thousand
+1 000 persons (seasonally adjusted),http://yavaa.org/ns/units/thousand
+1 000HD = 1 000 heads (animals),http://yavaa.org/ns/units/thousand
+Annual average (1 000),http://yavaa.org/ns/units/thousand
+Tertiary education (1 000),http://yavaa.org/ns/units/thousand
+THS_M3,http://yavaa.org/ns/units/thousandCubicmeter
+1 000 m³,http://yavaa.org/ns/units/thousandCubicmeter
+THS_EUR,http://yavaa.org/ns/units/thousandEuro
+1 000 EUR,http://yavaa.org/ns/units/thousandEuro
+THS_HA,http://yavaa.org/ns/units/thousandHectar
+Thousand ha,http://yavaa.org/ns/units/thousandHectar
+THS_MN,http://yavaa.org/ns/units/thousandMinute
+THS_M2,http://yavaa.org/ns/units/thousandSquaremeter
+1 000 t,http://www.wurvoc.org/vocabularies/om-1.8/kilotonne
+1 000 tonnes,http://www.wurvoc.org/vocabularies/om-1.8/kilotonne
+Thousand t,http://www.wurvoc.org/vocabularies/om-1.8/kilotonne
+Thousand tonnes,http://www.wurvoc.org/vocabularies/om-1.8/kilotonne
+THS_TD,http://yavaa.org/ns/units/thousandTonnePerDay
+KTOE,http://yavaa.org/ns/units/thousandTonnesOilEquivalent
+1 000 tonnes of oil equivalent,http://yavaa.org/ns/units/thousandTonnesOilEquivalent
+O2_TD,http://yavaa.org/ns/units/tonnePerDay
+T_HAB,-

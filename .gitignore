@@ -1,0 +1,9 @@
+/semResults
+/node_modules/
+/backup
+/data/
+/done/
+/tests/
+/.settings/
+/.project
+**test.js

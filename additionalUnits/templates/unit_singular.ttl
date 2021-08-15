@@ -1,0 +1,8 @@
+<http://yavaa.org/ns/units/{shortname}>
+  rdfs:label      "{name}"@en ;
+  a               om:Singular_unit ;
+  om:symbol       "{symbol}" ;
+  om:dimension    <{dimension}>
+  .
+{convert}
+
